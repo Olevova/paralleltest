@@ -1,0 +1,2 @@
+# paralleltest
+parallel auto test
